@@ -1,1 +1,5 @@
+print('type a number')
 input(a)
+print('type a numbber')
+input(b)
+print(a+b)
