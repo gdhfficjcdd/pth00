@@ -1,6 +1,6 @@
 print('type a number')
 input(a)
-print('type a numbber')
+print('type a number')
 input(b)
 print(a+b)
 print(a-b)
